@@ -67,11 +67,13 @@
                     <input type="text" class="form-control" placeholder="Amount to Add" id="usr" name="amount">
                 </div>
                 <div style="text-align: center">
-                    <button type="submit" class="btn btn-primary">Add Cash</button>
+                    <button type="submit" class="btn btn-success">Add Cash</button>
                 </div>
             </form>
             <form action="" method="POST">
-                <span style="display: block; margin-top:50px; text-align: center"><b>Code</b></span>
+                <span style="display: block;
+                 margin-top:50px;
+                  text-align: center"><b>Code</b></span>
                 <div class="input-group mb-3">
                     <input type="text"
                            style="text-align: center"
@@ -80,7 +82,7 @@
                            id="code" name="code">
                 </div>
                 <div style="text-align: center">
-                    <button type="submit" class="btn btn-outline-primary">Buy</button>
+                    <button type="submit" class="btn btn-outline-success">Buy</button>
                 </div>
 
                 <div
